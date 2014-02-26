@@ -6,6 +6,9 @@ My attempt at implementing gmaxwell's "prove-how-(non)-fractional-your-Bitcoin-r
 ## Usage
 
 ```
+# Install dependencies
+$ npm install
+
 # Create private merkle tree from an accounts file (see
 # test/account.json for format)
 
