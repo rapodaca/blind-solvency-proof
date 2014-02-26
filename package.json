@@ -1,0 +1,12 @@
+{
+  "name": "blind-solvency-proof",
+  "version": "0.0.1",
+  "description": "Implementation of gmaxwell's prove-how-(non)-fractional-your-Bitcoin-reserves-are scheme",
+  "private": false,
+  "dependencies": {
+    "commander": "2.1.x"
+  },
+  "devDependencies": {
+
+  }
+}
