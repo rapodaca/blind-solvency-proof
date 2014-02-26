@@ -11,6 +11,7 @@ confusion as this is what it really does.
 
 ```
 # Install dependencies
+$ npm install -g jake # optional - used for running build system
 $ npm install
 
 # Create private merkle tree from an accounts file (see
